@@ -5,12 +5,13 @@ I'm a Computer Science student with a passion for machine learning, accessible t
 ## 🛠️ Tech Interests
 
 - Machine Learning & AI
-- Accessible and human-centered software
+- Quantum Computing
+- Human-centered software
 - Full-stack development (Python, JavaScript, React, FastAPI, etc.)
 
 ## 📂 About My Projects
 
-Some of my most interesting work can’t be shared publicly on GitHub due to licensing or confidentiality restrictions and/or is still being ported over. I’m also currently working on several new projects—stay tuned as I’ll be sharing them here soon! For more details about my experience, feel free to check out my resume or reach out.
+Some of my most interesting work can’t be shared publicly on GitHub due to licensing or confidentiality restrictions and/or is still being ported over. I’m also currently working on several new projects and I’ll be sharing them here soon! For more details about my experience, feel free to check out my resume or reach out.
 
 ## 🌱 Currently
 
