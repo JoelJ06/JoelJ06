@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joel!
 
-I'm a Computer Science student with a passion for machine learning, accessible tech, and building things that make a difference. I enjoy exploring new technologies and solving real-world problems with code.
+I'm a Computer Science student with a passion for machine learning, quantum computing, and building things that make a difference. I enjoy exploring new technologies and solving real-world problems with code.
 
 ## 🛠️ Tech Interests
 
