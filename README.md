@@ -19,4 +19,3 @@ Some of my most interesting work can’t be shared publicly on GitHub due to lic
 - Always open to collaboration and learning new things!
 
 Thanks for stopping by! 🚀  
-*Let’s build something amazing together.*
