@@ -6,6 +6,7 @@ I'm a Computer Science student with a passion for machine learning, quantum comp
 
 - Machine Learning & AI
 - Quantum Computing
+- Embedded Systems
 - Human-centered software
 - Full-stack development (Python, JavaScript, React, FastAPI, etc.)
 
